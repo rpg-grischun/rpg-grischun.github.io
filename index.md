@@ -4,6 +4,7 @@
 
 layout: page
 callouts: main_page_callout
+hero_image: /assets/images/dragon_battle.jpg
 ---
 
 Hallo miteinander

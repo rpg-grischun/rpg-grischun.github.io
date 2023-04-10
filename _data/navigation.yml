@@ -5,7 +5,6 @@
 - name: "Über uns"
   dropdown:
     - name: "Wer wir sind"
-      link: /about-us/
+      link: /pages/about-us/
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/
-    
