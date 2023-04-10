@@ -17,15 +17,15 @@ items:
       Hier findest du die Anmelde-Liste für den nächsten Event!
 
       Melde dich schnell an, bevor die Plätze weg sind!
-    call_to_action_name: Call to action 2
+    call_to_action_name: Anmelden!
     call_to_action_link: /anmeldung/
   - title: Ich will Spiele leiten
     subtitle: Ich bin schon Spielleiter und möchte gerne mitmachen!
     icon: fa-discord
     icon_brand: true
     description: >
-      The example description text goes here and can be multiple lines.
+      Wir sind immer auf der Suche nach neuen Spielleiter:innen.
 
-      For example, such as this.
+      Du hast schon Erfahrung, oder möchtest deine erste Erfahrung als Spielleiter:in machen? Melde dich hier!
     call_to_action_name: DMs Enter here!
-    call_to_action_link: /page-3/
+    call_to_action_link: mailto:info@rpg-grischun.ch?subject=Spielleiter
