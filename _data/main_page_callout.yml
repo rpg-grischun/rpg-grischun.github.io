@@ -21,8 +21,7 @@ items:
     call_to_action_link: /anmeldung/
   - title: Ich will Spiele leiten
     subtitle: Ich bin schon Spielleiter und möchte gerne mitmachen!
-    icon: fa-discord
-    icon_brand: true
+    icon: fa-book
     description: >
       Wir sind immer auf der Suche nach neuen Spielleiter:innen.
 
