@@ -1,0 +1,31 @@
+style: is-light
+height: is-medium
+items:
+  - title: Intro Spiele
+    subtitle: Für Anfäger & Neugierige
+    icon: fa-book-sparkles
+    description: |
+      Du willst zum ersten mal ein Pen & Paper Rollenspiel versuchen?
+      
+      Dann bist du hier genau richtig!
+    call_to_action_name: Hier gehts weiter
+    call_to_action_link: /intro/
+  - title: Anmeldung
+    subtitle: Ich will mitmachen!
+    icon: fa-scroll
+    description: >
+      Hier findest du die Anmelde-Liste für den nächsten Event!
+
+      Melde dich schnell an, bevor die Plätze weg sind!
+    call_to_action_name: Call to action 2
+    call_to_action_link: /anmeldung/
+  - title: Example callout 3
+    subtitle: Example subtitle 3
+    icon: fa-github
+    icon_brand: true
+    description: >
+      The example description text goes here and can be multiple lines.
+
+      For example, such as this.
+    call_to_action_name: Call to action 3
+    call_to_action_link: /page-3/

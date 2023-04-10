@@ -9,9 +9,12 @@ url: "www.rpg-grischun.ch" # the base hostname & protocol for your site, e.g. ht
 # github_username:  jekyll
 
 # Build settings
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 footer: footer
+
+theme_color: "#e90000"
+
 plugins:
   - jekyll-feed
 
