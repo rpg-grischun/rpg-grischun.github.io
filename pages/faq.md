@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 subtitle: Ich hab da eine Frage
+permalink: /faq/
 ---
 
 ## Was ist der Unterschied zwischen Dungeons & Dragons und Pen & Paper Rollenspiel?

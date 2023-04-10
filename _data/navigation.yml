@@ -1,10 +1,10 @@
 - name: Anmeldung
-  link: https://forms.gle/dV9jxGLCabzUGNpB8
+  link: /anmeldung/
 - name: FAQ
-  link: /pages/faq/
+  link: /faq/
 - name: "Über uns"
   dropdown:
     - name: "Wer wir sind"
-      link: /pages/about-us/
+      link: /about-us/
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/

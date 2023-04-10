@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über uns
+permalink: /about-us/
 ---
 
 Pen & Paper Rollenspiele sind eine unendliche Quelle von Spass, Geschichten und Freundschaften. Aber der Anfang ist schwierig. Sieh dir nur die ganzen Bücher, Würfel, Karten und Regeln an!
