@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Code of Conduct
+title: Verhaltenskodex
 lang: de-CH
 permalink: /code-of-conduct/
 ---
-
-# Verhaltenskodex
 
 Alle Teilnehmer sind hier, um Spass zu haben und sollten sich IMMER sicher und einbezogen fühlen. Von allen Teilnehmern (Spieler:innen, Spielleitern:innen und der Organisation) wird erwartet, dass sie sich an den folgenden Verhaltenskodex halten.
 
