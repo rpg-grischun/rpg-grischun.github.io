@@ -24,7 +24,7 @@ Alle Teilnehmer sind hier, um Spass zu haben und sollten sich IMMER sicher und e
 - Vermeiden Sie Telefongespräche am Tisch.
 - Wenn Sie einen Anruf entgegennehmen müssen, entschuldigen Sie sich bitte vom Tisch, bis Ihr Gespräch beendet ist.
 
-[^1]: Das bedeutet primär, dass solche Themen und Sprachgebrauch grundsätzlich verboten sind, sondern dass dies in einem für die Teilnehmer:innen verträglichen Mass gehalten werden soll.
+[^1]: Das bedeutet nicht, dass solche Themen und Sprachgebrauch grundsätzlich verboten sind, sondern dass dies in einem für die Teilnehmer:innen verträglichen Mass gehalten werden soll.
 [^2]: Damit ist nicht gemeint, dass man nicht über Regeln diskutieren soll. Sondern, wenn ein Entscheid von den Spielleiter:innen gefällt wurde, ist dieser zu akzeptieren.
 [^3]: Dies umfasst sowohl direkten Kontakt als auch soziale Medien.
 
