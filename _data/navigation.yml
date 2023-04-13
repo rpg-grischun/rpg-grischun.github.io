@@ -6,5 +6,7 @@
   dropdown:
     - name: "Wer wir sind"
       link: /about-us/
+    - name: "Code of Conduct"
+      link: /code-of-conduct/
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/

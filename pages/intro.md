@@ -5,6 +5,7 @@ subtitle: Ich hab noch nie ein Pen&Paper RPG gespielt
 description: Diese Seite soll neuen Spieler:innen helfen sich in der Welt der P&P zurecht zu finden.
 hero-image: /assets/dragon_battle.png
 permalink: /intro/
+lang: de-CH
 ---
 
 ## Was für Pen & Paper Rollenspiele gibt es?
@@ -15,11 +16,11 @@ Sie tangieren jedes Genre, sei das [Fantasy](https://dnd.wizards.com/), [Science
 
 ## Was brauche ich um eine P&P Spiel zu spielen
 
-Ein guter Punkt zum starten sind Einsteigersets. Diese enthalten häufig vereinfachte Regeln, vorbereitete Characterblätter und ein paar Würfel. Es ist alles so beschrieben, dass auch komplette Neulinge damit zurechtkommen sollten.
+Ein guter Punkt zum Starten sind Einsteigersets. Diese enthalten häufig vereinfachte Regeln, vorbereitete Charakterblätter und ein paar Würfel. Es ist alles so beschrieben, dass auch komplette Neulinge damit zurechtkommen sollten.
 
 > Die bequemste Art ist natürlich an einem unserer Intro-Spiele teilzunehmen!
 
-Aber grundsätzlich sind das die Basis-Resourcen, die nötig sind:
+Aber grundsätzlich sind das die Basis-Ressourcen, die nötig sind:
 
 - Ein Regelbuch
 - Ein Abenteuer
@@ -35,9 +36,9 @@ Grundsätzlich geht es immer nach folgendem Muster:
 
    > Ihr seht im Stein eingemeisselt eine Türe mit verschiedenen Runen in zwergischer Schrift. Die Türe scheint verschlossen und seit langer Zeit unberührt.
 
-2. Die Spieler sagen was sie machen wollen, wie sie mit der Situation umgehen wollen.
+2. Die Spieler sagen, was sie machen wollen, wie sie mit der Situation umgehen wollen.
 
-   > Mein Character ist Zwerg, er versucht die Schrift zu lesen und zu entziffern was das steht.
+   > Mein Character ist Zwerg, er versucht die Schrift zu lesen und zu entziffern, was das steht.
 
    oder
 
