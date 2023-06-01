@@ -8,7 +8,7 @@ lang: de-CH
 
 ## Was ist der Unterschied zwischen Dungeons & Dragons und Pen & Paper Rollenspiel?
 
-Pen & Paper (übersetzt „Stift und Papier“), kurz P&P, Rollenspiele sind Spiele, die man gemeinsam am Tisch spielt und Abenteuer erlebt.
+Pen & Paper (übersetzt „Stift und Papier“, kurz P&P) Rollenspiele sind Spiele, die man gemeinsam am Tisch spielt und Abenteuer erlebt.
 
 Dungeons & Dragons, kurz D&D, ist dabei das bekannteste P&P Rollenspiel, das es gibt. Es ist also eine Art um P&P zu erleben.
 
@@ -18,7 +18,7 @@ Es ist bei weitem das bekannteste P&P, weshalb die meisten Leute schon mal irgen
 
 Mittlerweile ist es auch eines der zugänglichsten, wobei es aber trotzdem eine enorme Tiefe erreichen kann.
 
-## Spielt ihr nur D&D
+## Spielt ihr nur D&D?
 
 Nein. Wir spielen auch einige andere Rollenspiele, wie Dungeon Crawl Classic, Pathfinder oder „Das schwarze Auge“.
 
