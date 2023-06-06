@@ -19,5 +19,13 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 Anmelden kannst du dich über folgenden Link:
 
 [06.06.2023](https://forms.gle/dV9jxGLCabzUGNpB8)
-[04.07.2023](https://forms.gle/Rcw3obnegtAoZbb1A)
+
+[04.07.2023](https://forms.gle/Nwh7jFqDmkD8tEL48)
+
 [08.08.2023](https://forms.gle/F7VnZkEUqekE3YF28) (Achtung: Im August spielen wir am ZWEITEN Dienstag im Monat, da der erste der 1ste August ist.)
+
+## Ich habe weitere Fragen!
+
+Vielleicht beantwortet unser [FAQ](faq.md) deine Frage. Wir sind aber auch per Mail erreichbar:
+
+<info@rpg-grischun.ch>
