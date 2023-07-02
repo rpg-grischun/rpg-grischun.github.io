@@ -1,10 +1,12 @@
 ---
 layout: page
+title: Anmeldung
 permalink: /anmeldung/
-titel: Anmeldung
+hero_image: /assets/images/wizard_lab_2.png
+lang: de-CH
 ---
 
-## Was?
+## Warum?
 
 Wir spielen verschiedene P&P Rollenspiele.
 
