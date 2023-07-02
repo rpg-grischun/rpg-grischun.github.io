@@ -6,7 +6,7 @@ hero_image: /assets/images/wizard_lab_2.png
 lang: de-CH
 ---
 
-## Warum?
+## Was?
 
 Wir spielen verschiedene P&P Rollenspiele.
 
