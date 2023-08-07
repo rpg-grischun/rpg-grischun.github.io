@@ -22,7 +22,7 @@ Anmelden kannst du dich über folgenden Link:
 
 [04.07.2023](closed.md)
 
-[08.08.2023](https://forms.gle/F7VnZkEUqekE3YF28) (Achtung: Im August spielen wir am ZWEITEN Dienstag im Monat, da der erste der 1ste August ist.)
+[08.08.2023](closed.md) (Achtung: Im August spielen wir am ZWEITEN Dienstag im Monat, da der erste der 1ste August ist.)
 
 [05.09.2023](https://forms.gle/iPwW8koyGJnHsZ8G9)
 
