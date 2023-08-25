@@ -20,11 +20,11 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 
 Anmelden kannst du dich über folgenden Link:
 
-[04.07.2023](closed.md)
+[05.09.2023](https://forms.gle/oWG67mhR1G6tHEJSA)
 
-[08.08.2023](closed.md) (Achtung: Im August spielen wir am ZWEITEN Dienstag im Monat, da der erste der 1ste August ist.)
+[03.10.2023](https://forms.gle/ALNCMkGqTHqSWc2S7)
 
-[05.09.2023](https://forms.gle/iPwW8koyGJnHsZ8G9)
+[07.11.2023](https://forms.gle/17KYuZyqDSYyNa1UA)
 
 ## Ich habe weitere Fragen!
 
