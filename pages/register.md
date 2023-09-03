@@ -20,7 +20,7 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 
 Anmelden kannst du dich über folgenden Link:
 
-[05.09.2023](https://forms.gle/oWG67mhR1G6tHEJSA)
+[05.09.2023](closed.md)
 
 [03.10.2023](https://forms.gle/ALNCMkGqTHqSWc2S7)
 
