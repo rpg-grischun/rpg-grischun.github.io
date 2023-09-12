@@ -30,18 +30,18 @@ Aber grundsätzlich sind das die Basis-Ressourcen, die nötig sind:
 
 ## Was muss ich an einem Intro-Spiel mitbringen?
 
-Grundsätzlich werden wir alles was du benötigst für euch bereitstellen (inklusive Würfel).
+Grundsätzlich werden wir alles, was du benötigst, für euch bereitstellen (inklusive Würfel).
 
 Du wirst eine kleine Auswahl an Charakteren vorfinden, aus welchen du deinen Liebling wählen darfst. Mit diesem wirst du dann das Abenteuer des Abends bestreiten.
 
-Die Regelbücher sind dick und wenn wir beginnen würden dir erstmal alle Regeln zu erklären, würde ein Abend nicht reichen. Wir glauben auch, du würdest dann gar nicht erst ein zweites mal spielen wollen (wir würden dir das nicht mal verübeln). Daher beginnen wir eigentlich fast direkt mit dem Spielen und erklären dir Regeln immer sobald sie relevant werden. 
+Die Regelbücher sind dick und wenn wir beginnen würden dir erst mal alle Regeln zu erklären, würde ein Abend nicht reichen. Wir glauben auch, du würdest dann gar nicht erst ein zweites Mal spielen wollen (wir würden dir das nicht mal verübeln). Daher beginnen wir eigentlich fast direkt mit dem Spielen und erklären dir Regeln immer, sobald sie relevant werden. 
 
 Das erlaubt dir und deinen Mitspieler:innen die maximale Erfahrung und den grössten Spielspass. Natürlich sind Fragen jederzeit erlaubt und auch erwünscht.
 
 Zusammengefasst, was musst du mitbringen:
 
 - Dich selbst
-- Spass am spielen
+- Spass am Spielen.
 
 ## Wie läuft ein P&P Spiel ab?
 
