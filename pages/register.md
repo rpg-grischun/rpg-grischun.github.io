@@ -24,7 +24,7 @@ Anmelden kannst du dich über folgenden Link:
 
 [07.11.2023](https://forms.gle/17KYuZyqDSYyNa1UA)
 
-[02.12.2023](https://forms.gle/mdyNuVycCxsSB6kLA)
+[05.12.2023](https://forms.gle/mdyNuVycCxsSB6kLA)
 
 ## Ich habe weitere Fragen!
 
