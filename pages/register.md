@@ -22,9 +22,11 @@ Anmelden kannst du dich über folgenden Link:
 
 [03.10.2023](closed.md)
 
-[07.11.2023](https://forms.gle/17KYuZyqDSYyNa1UA)
+[07.11.2023](closed)
 
 [02.12.2023](https://forms.gle/mdyNuVycCxsSB6kLA)
+
+[01.2024](404.html) (\*Genaues Datum kommt noch)
 
 ## Ich habe weitere Fragen!
 
