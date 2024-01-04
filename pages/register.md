@@ -22,7 +22,7 @@ Anmelden kannst du dich über folgenden Link:
 
 [09.01.2024](https://forms.gle/KUNNhgLu9yQ2o4un6) **ACHTUNG: Im Januar spielen wir am 2ten Dienstag im Monat!!**
 
-[06.02.2024](https://forms.gle/r4RP5mxoDTkbwqgJA) (\*Genaues Datum kommt noch)
+[06.02.2024](https://forms.gle/r4RP5mxoDTkbwqgJA)
 
 ## Ich habe weitere Fragen!
 
