@@ -20,9 +20,10 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 
 Anmelden kannst du dich über folgenden Link:
 
-[09.01.2024](https://forms.gle/KUNNhgLu9yQ2o4un6) **ACHTUNG: Im Januar spielen wir am 2ten Dienstag im Monat!!**
+[06.02.2024](closed.md)
 
-[06.02.2024](https://forms.gle/Bx6QghpMUELf8Df39)
+[05.03.2024](https://forms.gle/iKcw9ypMwZA99jkJA)
+
 
 ## Ich habe weitere Fragen!
 
