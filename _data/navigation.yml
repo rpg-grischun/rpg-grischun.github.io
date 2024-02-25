@@ -10,3 +10,7 @@
       link: /code-of-conduct/
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/
+- name: Verein
+  dropdown:
+    - name: "Statuten"
+      link: /verein/statuten/

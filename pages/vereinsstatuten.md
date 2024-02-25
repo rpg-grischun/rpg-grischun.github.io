@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: page
 title: "Vereinsstatuten"
-date: 2023-03-26 11:08:18 +0200
-categories: rpg grischun verein
+permalink: /verein/statuten/
 ---
 
-DIESE STATUEN GEBEN DEM VEREIN RPG GRISCHUNG SEINE FORM.
+Diese Statuten sind dein Entwurf, welche zur Einsicht für interessierte Personen dienen soll, um Kommentare und Anregungen vor der Gründung des Vereins einholen zu können.
+
+> Diese Statuten sind noch NICHT offiziell oder in Kraft.
 
 1. NAME UND SITZ
 
