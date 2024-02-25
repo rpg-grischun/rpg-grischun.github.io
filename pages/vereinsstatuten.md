@@ -8,11 +8,11 @@ Diese Statuten sind dein Entwurf, welche zur Einsicht für interessierte Persone
 
 > Diese Statuten sind noch NICHT offiziell oder in Kraft.
 
-1. NAME UND SITZ
+## 1. NAME UND SITZ
 
 Unter dem Namen „RPG Grischun" besteht ein Verein im Sinne von Art. 60 ff. ZGB mit Sitz in Chur. Er ist politisch unabhängig und konfessionell neutral.
 
-2. ZIEL UND ZWECK
+## 2. ZIEL UND ZWECK
 
 Der Verein bezweckt die Förderung von Pen-and-Paper Roll Playing Games (folgend abgekürzt zu RPG, Oder RPGs).
 
@@ -20,7 +20,7 @@ Dabei organisiert der Verein verschiedene Veranstaltungen, an welchem die Verein
 
 Weiter soll der Verein den Mitgliedern Material zur Verfügung stellen, mit welchem Sie ihre eigenen Spiele organisieren können.
 
-3. MITTEL
+## 3. MITTEL
 
 Zur Verfolgung des Vereinszweckes verfügt der Verein über folgende Mittel:
 
@@ -35,7 +35,7 @@ Die Mitgliederbeiträge werden jährlich durch die Mitgliederversammlung festges
 
 Aktivmitglieder bezahlen einen höheren Beitrag als Passivmitglieder. Ehrenmitglieder und amtierende Vorstandsmitglieder sind vom Beitrag befreit.
 
-4. MITGLIEDSCHAFT
+## 4. MITGLIEDSCHAFT
 
 Mitglieder können natürliche und juristische Personen werden, denen der Vereinszweck ein Anliegen ist.
 
@@ -47,13 +47,14 @@ Personen, die Sich in besonderem Masse für den Verein eingesetzt haben, kann au
 
 Gönnermitglieder mit Stimmrecht bezahlen einen Jahresbeitragt der mindestens dem der Aktivmitglieder entspricht.
 
-5. ERLÖSCHEN DER MITGLIEDSCHAFT
+## 5. ERLÖSCHEN DER MITGLIEDSCHAFT
 
-- Die Mitgliedschaft erlischt bei natürlichen Personen durch Austritt, Ausschluss Tod.
-- bei juristischen Personen durch Austritt, Ausschluss Auflösung der juristischen
-  Person.
+Die Mitgliedschaft erlischt
 
-6. AUSTRITT UND AUSSCHLUSS
+- bei natürlichen Personen durch Austritt, Ausschluss Tod.
+- bei juristischen Personen durch Austritt, Ausschluss Auflösung der juristischen Person.
+
+## 6. AUSTRITT UND AUSSCHLUSS
 
 Ein Vereinsaustritt ist nur per Ende Geschäftsjahr möglich, Das Austrittsschreiben muss mindestens 1 Monat vor dem Termin schriftlich an den Vorstand gerichtet werden.
 
@@ -65,7 +66,7 @@ Der Vorstand fällt den Ausschlussentscheid; das Mitglied kann gegen den Ausschl
 
 Bleibt ein Mitglied trotz Mahnung den Mitgliederbeitrag schuldig, kann es vom Vorstand ohne Weiteres ausgeschlossen werden.
 
-7. ORGANE DES VEREINS
+## 7. ORGANE DES VEREINS
 
 Die Organe des Vereins sind:
 
@@ -74,7 +75,7 @@ Die Organe des Vereins sind:
 3. die Revisionsstelle
 4. die Geschäftsstelle
 
-5. MITGLIEDERVERSAMMLUNG
+## 8. MITGLIEDERVERSAMMLUNG
 
 Das oberste Organ des Vereins ist die Mitgliederversammlung. Eine ordentliche
 Mitgliederversammlung findet jährlich im ersten Quartal des Geschäftsjahres statt.
@@ -112,7 +113,7 @@ Statutenänderungen benötigen die Zustimmung einer 2/3—Mehrheit der anwesende
 
 Über die gefassten Beschlüsse ist wird von Protokollführer ein Beschlussprotokoll verfasst.
 
-9. DER VORSTAND
+## 9. DER VORSTAND
 
 Der Vorstand besteht aus mindestens 3 bis 5 Personen.
 
@@ -140,21 +141,21 @@ Sofern kein Vorstandsmitglied mündliche Beratung verlangt, ist die Beschlussfas
 
 Der Vorstand ist grundsätzlich ehrenamtlich und unentgeltlich tätig, er hat Anrecht auf Vergütung der effektiven Spesen. Für besondere Leistungen einzelner Vorstandsmitglieder kann eine angemessene Entschädigung ausgerichtet werden.
 
-10. DIE REVISIONSSTELLE
+## 10. DIE REVISIONSSTELLE
 
 Die Mitgliederversammlung wählt mind. 1 Rechnungsrevisoren Oder eine juristische Person, welche die Buchführung kontrollieren und mindestens einmal jährlich eine Stichkontrolle durchführen.
 
 Die Revisionsstelle erstattet dem Vorstand zuhanden der Mitgliederversammlung Bericht. Die Amtszeit beträgt 1 Jahr. Wiederwahl ist zulässig.
 
-11. ZEICHNUNGSBERECHTIGUNG
+## 11. ZEICHNUNGSBERECHTIGUNG
 
 Der Verein wird verpflichtet durch die Kollektivunterschrift des/der Präsident/in zusammen mit einem weiteren Mitglied des Vorstandes.
 
-12. HAFTUNG
+## 12. HAFTUNG
 
 Für die Schulden des Vereins haftet nur das Vereinsvermögen. Eine persönliche Haftung der Mitglieder ist ausgeschlossen.
 
-13. DATENSCHUTZ
+## 13. DATENSCHUTZ
 
 Der Verein erhebt von den Mitgliedern ausschliesslich diejenigen Personendaten, die zur Erfüllung des Vereinszwecks notwendig Sind. Der Vorstand sorgt für eine dem Risiko angemessene Sicherheit der Daten.
 
@@ -166,7 +167,7 @@ Das Einverständnis der betroffenen Mitglieder muss im Falle einer Publikation i
 
 Die Bearbeitung der Mitgliederdaten erfolgt im Übrigen nach den Bestimmungen der schweizerischen Datenschutzgesetzgebung und der Datenschutzerklärung auf der Website des Vereins.
 
-14. AUFLÖSUNG DES VEREINS
+## 14. AUFLÖSUNG DES VEREINS
 
 Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung mit dem Stimmenmehr von 2/3 der anwesenden Mitglieder erfolgen, wenn mindestens 2/3 der Vereinsmitglieder anwesend Sind.
 
@@ -174,6 +175,6 @@ Nehmen weniger als 2/3 aller Mitglieder an der Versammlung teil, ist innerhalb e
 
 Bei einer Auflösung des Vereins fällt das VereinsvermÖgen an eine steuerbefreite Organisation in der Schweiz, welche den gleichen Oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
 
-15. INKRAFTTRETEN
+## 15. INKRAFTTRETEN
 
 Diese Statuten wurden an der Gründungsversammlung vom XXX angenommen und Sind mit diesem Datum in Kraft getreten.
