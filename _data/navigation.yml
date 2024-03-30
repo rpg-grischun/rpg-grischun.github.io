@@ -3,6 +3,7 @@
 - name: FAQ
   link: /faq/
 - name: "Über uns"
+  link: /about-us/
   dropdown:
     - name: "Wer wir sind"
       link: /about-us/
@@ -11,6 +12,7 @@
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/
 - name: Verein
+  link: /verein/
   dropdown:
     - name: "Statuten"
       link: /verein/statuten/
