@@ -10,13 +10,13 @@ Diese Statuten sind dein Entwurf, welche zur Einsicht für interessierte Persone
 
 ## 1. NAME UND SITZ
 
-Unter dem Namen „RPG Grischun" besteht ein Verein im Sinne von Art. 60 ff. ZGB mit Sitz in Chur. Er ist politisch unabhängig und konfessionell neutral.
+Unter dem Namen „RPG Grischun“ besteht ein Verein im Sinne von Art. 60 ff. ZGB mit Sitz in Chur. Er ist politisch unabhängig und konfessionell neutral.
 
 ## 2. ZIEL UND ZWECK
 
 Der Verein bezweckt die Förderung von Pen-and-Paper Roll Playing Games (folgend abgekürzt zu RPG, Oder RPGs).
 
-Dabei organisiert der Verein verschiedene Veranstaltungen, an welchem die Vereinsmitglieder diese RPGs durchführen. Weiter engagiert Sich der Verein in der Verbreitung und Bekanntmachung der RPGs.
+Dabei organisiert der Verein verschiedene Veranstaltungen, an welchem die Vereinsmitglieder diese RPGs durchführen. Weiter engagiert sich der Verein in der Verbreitung und Bekanntmachung der RPGs.
 
 Weiter soll der Verein den Mitgliedern Material zur Verfügung stellen, mit welchem Sie ihre eigenen Spiele organisieren können.
 
@@ -43,9 +43,9 @@ Aktivmitglieder mit Stimmrecht sind natürliche Personen, welche die Angebote un
 
 Passivmitglieder mit Stimmrecht können natürliche Oder juristische Personen sein, welche den Verein ideell und finanziell unterstützen.
 
-Personen, die Sich in besonderem Masse für den Verein eingesetzt haben, kann aufVorschlag des Vorstands durch die Mitgliederversammlung die Ehrenmitgliedschaft verliehen werden. Sie haben volles Stimmrecht.
+Personen, die sich in besonderem Masse für den Verein eingesetzt haben, kann auf Vorschlag des Vorstands durch die Mitgliederversammlung die Ehrenmitgliedschaft verliehen werden. Sie haben volles Stimmrecht.
 
-Gönnermitglieder mit Stimmrecht bezahlen einen Jahresbeitragt der mindestens dem der Aktivmitglieder entspricht.
+Gönner-Mitglieder mit Stimmrecht bezahlen einen Jahresbeitrag, der mindestens dem der Aktivmitglieder entspricht.
 
 ## 5. ERLÖSCHEN DER MITGLIEDSCHAFT
 
@@ -56,7 +56,7 @@ Die Mitgliedschaft erlischt
 
 ## 6. AUSTRITT UND AUSSCHLUSS
 
-Ein Vereinsaustritt ist nur per Ende Geschäftsjahr möglich, Das Austrittsschreiben muss mindestens 1 Monat vor dem Termin schriftlich an den Vorstand gerichtet werden.
+Ein Vereinsaustritt ist nur per Ende Geschäftsjahr möglich; das Austrittsschreiben muss mindestens 1 Monat vor dem Termin schriftlich an den Vorstand gerichtet werden.
 
 Für das angebrochene Jahr ist der volle Mitgliederbeitrag zu bezahlen.
 
@@ -91,18 +91,18 @@ Der Vorstand kann in begründeten Ausnahmefällen die Beschlussfassung mittels e
 Die Mitgliederversammlung hat die folgenden unentziehbaren Aufgaben und Kompetenzen:
 
 1. Genehmigung des Protokolls der letzten Mitgliederversammlung
-2. Genehmigung desJahresberichts des Vorstands
-3. Entgegennahme des Revisionsberichts und Genehmigung derJahresrechnung
-4. Entlastung des Vorstandes
+2. Genehmigung des Jahresberichts des Vorstands
+3. Entgegennahme des Revisionsberichts und Genehmigung der Jahresrechnung
+4. Entlastung des Vorstands
 5. Wahl des Präsidenten/der Präsidentin und der übrigen Vorstandsmitglieder sowie der Revisionsstelle.
 6. Festsetzung der Mitgliederbeiträge
-7. Genehmigung desJahresbudgets
+7. Genehmigung des Jahresbudgets
 8. Beschlussfassung über das Tätigkeitsprogramm
 9. Beschlussfassung Anträge des Vorstands und der Mitglieder
 10. Änderung der Statuten
 11. Änderung€/ des Code of Conduct
 12. Entscheid über Ausschlüsse von Mitgliedern.
-13. Entscheid über Ausschlussrekurse
+13. Entscheid über Ausschluss-Rekurse
 14. Beschlussfassung über die Auflösung des Vereins und die Verwendung des Liquidationserlöses.
 
 Jede ordnungsgemäss einberufene Mitgliederversammlung ist unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
@@ -111,7 +111,7 @@ Die Mitglieder fassen die Beschlüsse mit dem einfachen Mehr der abgegebenen Sti
 
 Statutenänderungen benötigen die Zustimmung einer 2/3—Mehrheit der anwesenden Stimmberechtigten.
 
-Über die gefassten Beschlüsse ist wird von Protokollführer ein Beschlussprotokoll verfasst.
+Über die gefassten Beschlüsse ist, wird von Protokollführer ein Beschlussprotokoll verfasst.
 
 ## 9. DER VORSTAND
 
@@ -143,13 +143,13 @@ Der Vorstand ist grundsätzlich ehrenamtlich und unentgeltlich tätig, er hat An
 
 ## 10. DIE REVISIONSSTELLE
 
-Die Mitgliederversammlung wählt mind. 1 Rechnungsrevisoren Oder eine juristische Person, welche die Buchführung kontrollieren und mindestens einmal jährlich eine Stichkontrolle durchführen.
+Die Mitgliederversammlung wählt mind. 1 Rechnungsrevisoren oder eine juristische Person, welche die Buchführung kontrollieren und mindestens einmal jährlich eine Stichkontrolle durchführen.
 
 Die Revisionsstelle erstattet dem Vorstand zuhanden der Mitgliederversammlung Bericht. Die Amtszeit beträgt 1 Jahr. Wiederwahl ist zulässig.
 
 ## 11. ZEICHNUNGSBERECHTIGUNG
 
-Der Verein wird verpflichtet durch die Kollektivunterschrift des/der Präsident/in zusammen mit einem weiteren Mitglied des Vorstandes.
+Der Verein wird verpflichtet durch die Kollektivunterschrift des/der Präsident/in zusammen mit einem weiteren Mitglied des Vorstands.
 
 ## 12. HAFTUNG
 
@@ -157,9 +157,9 @@ Für die Schulden des Vereins haftet nur das Vereinsvermögen. Eine persönliche
 
 ## 13. DATENSCHUTZ
 
-Der Verein erhebt von den Mitgliedern ausschliesslich diejenigen Personendaten, die zur Erfüllung des Vereinszwecks notwendig Sind. Der Vorstand sorgt für eine dem Risiko angemessene Sicherheit der Daten.
+Der Verein erhebt von den Mitgliedern ausschliesslich diejenigen Personendaten, die zur Erfüllung des Vereinszweckes notwendig sind. Der Vorstand sorgt für eine dem Risiko angemessene Sicherheit der Daten.
 
-Die Mitgliederdaten werden den anderen Mitgliedern nicht bekanntgegeben, es sei denn, eine gesetzliche Bestimmung sehe dies vor. Für die Ausübung von Ämtern können die Mitglieder beim Vereinsvorstand Einsicht in die Mitgliederdaten beantragen. Der Vorstand entscheidet über die Herausgabe der Daten.
+Die Mitgliederdaten werden den anderen Mitgliedern nicht bekannt gegeben, es sei denn, eine gesetzliche Bestimmung sehe dies vor. Für die Ausübung von Ämtern können die Mitglieder beim Vereinsvorstand Einsicht in die Mitgliederdaten beantragen. Der Vorstand entscheidet über die Herausgabe der Daten.
 
 Die Mitgliederdaten, wie Namen und Bildmaterial, können zum Zweck der Vereinstätigkeit, wie Newsletter, offizielle Kommunikationen des Vereins veröffentlicht. Explizit ausgeschlossen sind Kontaktdaten.
 
@@ -169,12 +169,12 @@ Die Bearbeitung der Mitgliederdaten erfolgt im Übrigen nach den Bestimmungen de
 
 ## 14. AUFLÖSUNG DES VEREINS
 
-Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung mit dem Stimmenmehr von 2/3 der anwesenden Mitglieder erfolgen, wenn mindestens 2/3 der Vereinsmitglieder anwesend Sind.
+Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausserordentlichen Mitgliederversammlung mit dem Stimmenmehr von 2/3 der anwesenden Mitglieder erfolgen, wenn mindestens 2/3 der Vereinsmitglieder anwesend sind.
 
-Nehmen weniger als 2/3 aller Mitglieder an der Versammlung teil, ist innerhalb eines Monats eine zweite Versammlung abzuhalten. An dieser Versammlung kann der Verein auch dann mit einfacher Mehrheit aufgelöst werden, wenn weniger als drei Viertel der Mitglieder anwesend Sind.
+Nehmen weniger als 2/3 aller Mitglieder an der Versammlung teil, ist innerhalb eines Monats eine zweite Versammlung abzuhalten. An dieser Versammlung kann der Verein auch dann mit einfacher Mehrheit aufgelöst werden, wenn weniger als drei Viertel der Mitglieder anwesend sind.
 
-Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation in der Schweiz, welche den gleichen Oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
+Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation in der Schweiz, welche den gleichen oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
 
 ## 15. INKRAFTTRETEN
 
-Diese Statuten wurden an der Gründungsversammlung vom XXX angenommen und Sind mit diesem Datum in Kraft getreten.
+Diese Statuten wurden an der Gründungsversammlung vom XXX angenommen und sind mit diesem Datum in Kraft getreten.
