@@ -173,7 +173,7 @@ Die Auflösung des Vereins kann durch Beschluss einer ordentlichen oder ausseror
 
 Nehmen weniger als 2/3 aller Mitglieder an der Versammlung teil, ist innerhalb eines Monats eine zweite Versammlung abzuhalten. An dieser Versammlung kann der Verein auch dann mit einfacher Mehrheit aufgelöst werden, wenn weniger als drei Viertel der Mitglieder anwesend Sind.
 
-Bei einer Auflösung des Vereins fällt das VereinsvermÖgen an eine steuerbefreite Organisation in der Schweiz, welche den gleichen Oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
+Bei einer Auflösung des Vereins fällt das Vereinsvermögen an eine steuerbefreite Organisation in der Schweiz, welche den gleichen Oder einen ähnlichen Zweck verfolgt. Die Verteilung des Vereinsvermögens unter den Mitgliedern ist ausgeschlossen.
 
 ## 15. INKRAFTTRETEN
 
