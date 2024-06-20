@@ -22,7 +22,7 @@ Anmelden kannst du dich über folgenden Link:
 
 [04.06.2024](closed.md)
 
-[02.07.05](https://forms.gle/ZDm3edoMcMoXfDCL7)
+[02.07.2024](https://forms.gle/ZDm3edoMcMoXfDCL7)
 
 ## Ich habe weitere Fragen!
 
