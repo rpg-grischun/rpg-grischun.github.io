@@ -20,7 +20,7 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 
 Anmelden kannst du dich über folgenden Link:
 
-[06.08.2024](closed.md)
+[06.08.2024](/closed.md)
 
 [03.09.2024](https://forms.gle/EdHufkQjNssR4Zex8)
 
