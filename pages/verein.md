@@ -1,6 +1,9 @@
 ---
+layout: page
 title: Verein RPG Grischun
 permalink: /verein/
+language: de-CH
+hero_image: /assets/images/wizard_lab_2.png
 ---
 
 Der Verein RPG Grischun will die RPG-Community im Raum Graubünden fördern und allen eine Möglichkeit geben dieses wunderbare Hobby zu erleben.

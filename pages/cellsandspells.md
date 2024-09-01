@@ -33,4 +33,4 @@ Verpflegung
 
 ## Anmeldung
 
-Anmeldungen über dieses Formular: [ANMELDUNG]()
+Anmeldungen über dieses Formular: [ANMELDUNG](https://forms.gle/aQYS64vHNbu9vFXbA)
