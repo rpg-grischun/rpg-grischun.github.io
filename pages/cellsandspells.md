@@ -22,14 +22,14 @@ Wir bieten dir:
 
 ## Preise
 
-Eintritt
+**Eintritt**
 : 15 CHF
 
-Verpflegung
-: 20 CHF
-
-Übernachtung
+**Verpflegung**
 : 35 CHF
+
+**Übernachtung**
+: ab 35 CHF
 
 ## Anmeldung
 
