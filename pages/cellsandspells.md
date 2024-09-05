@@ -8,6 +8,8 @@ Du wolltest schon immer Dungeons & Dragons in einem richtigen Dungeon spielen? H
 
 In Zusammenarbeit mit dem [Bogentrakt Hostel](https://www.bogentrakt.ch/) in Chur organisieren wir denn ersten *Cells & Spells* Event. Im ehemals härtesten Knast der Schweiz, schlägst du dich durch einen Nachmittag voller Gefahren, Geister, Goblins und anderen Sachen die mit G beginnen.
 
+[![Bogentrakt Hostel](assets/images/bogentrakt.png)](https://www.bogentrakt.ch/)
+
 Wir bieten dir:
 
 - Eine Übernachtung im historischen Gefängnis in Chur
