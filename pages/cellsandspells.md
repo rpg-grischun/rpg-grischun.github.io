@@ -31,7 +31,7 @@ Wir bieten dir:
 : 35 CHF
 
 **Übernachtung**
-: ab 35 CHF
+: ab 30 CHF
 
 ## Anmeldung
 
