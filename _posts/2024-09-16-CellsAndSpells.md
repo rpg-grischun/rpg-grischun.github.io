@@ -15,4 +15,4 @@ Für die Details, könnt ihr hier nachlesen:
 
 [Cells and spells](/events/cellsandspells)
 
-![Titelbild von Xenos](<https://de.wikipedia.org/wiki/Sennhof_(Chur)#/media/Datei:Sennhof_Chur.jpg>)
+[Titelbild von Xenos](<https://de.wikipedia.org/wiki/Sennhof_(Chur)#/media/Datei:Sennhof_Chur.jpg>)

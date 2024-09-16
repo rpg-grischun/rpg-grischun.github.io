@@ -37,3 +37,7 @@ F: Wie viel Platz habt ihr?
 
 F: Wie gross sind die Zimmer
 : A: Es sind 4er Zimmer, oder auf Wunsch und Aufpreis Doppelzimmer.
+
+## Flyer
+
+{% pdf "/assets/other/cells_and_spells_flyer.pdf" %}
