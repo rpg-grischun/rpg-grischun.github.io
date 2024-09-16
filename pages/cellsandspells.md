@@ -24,7 +24,16 @@ Wir bieten dir:
 - Sonntag, 27 Oktober 2024
   - Ab 09.00, Brettspiel-Fest mit alten Klassikern und den allerneusten Hits
 
-## Kosten
+## Preise
+
+**Eintritt**
+: 15 CHF
+
+**Verpflegung**
+: 35 CHF
+
+**Übernachtung**
+: ab 30 CHF
 
 ## Anmeldung
 
