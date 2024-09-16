@@ -1,30 +1,18 @@
 style: is-light
-height: is-medium
+height: is-small
 items:
   - title: Intro Spiele
     subtitle: Für Anfäger & Neugierige
     icon: fa-question
-    description: |
-      Du willst zum ersten mal ein Pen & Paper Rollenspiel versuchen?
-      
-      Dann bist du hier genau richtig!
     call_to_action_name: Hier gehts weiter
     call_to_action_link: /intro/
   - title: Anmeldung
-    subtitle: Ich will mitmachen!
+    subtitle: Ich will mitspielen!
     icon: fa-scroll
-    description: >
-      Hier findest du die Anmelde-Liste für den nächsten Event!
-
-      Melde dich schnell an, bevor die Plätze weg sind!
     call_to_action_name: Anmelden!
     call_to_action_link: /anmeldung/
   - title: Ich will Spiele leiten
     subtitle: Ich bin schon Spielleiter und möchte gerne mitmachen!
     icon: fa-book
-    description: >
-      Wir sind immer auf der Suche nach neuen Spielleiter:innen.
-
-      Du hast schon Erfahrung, oder möchtest deine erste Erfahrung als Spielleiter:in machen? Melde dich hier!
     call_to_action_name: Anmeldung für DMs!
     call_to_action_link: mailto:info@rpg-grischun.ch?subject=Spielleiter

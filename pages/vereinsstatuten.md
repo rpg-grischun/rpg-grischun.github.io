@@ -2,6 +2,7 @@
 layout: page
 title: "Vereinsstatuten"
 permalink: /verein/statuten/
+hero_darken: true
 ---
 
 Diese Statuten sind dein Entwurf, welche zur Einsicht für interessierte Personen dienen soll, um Kommentare und Anregungen vor der Gründung des Vereins einholen zu können.

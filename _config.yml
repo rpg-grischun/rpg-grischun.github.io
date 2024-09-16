@@ -15,6 +15,9 @@ footer: footer
 
 theme_color: "#e90000"
 
+paginate: 5
+paginate_path: "/blog/page:num"
+
 plugins:
   - jekyll-feed
 

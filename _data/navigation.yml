@@ -11,6 +11,11 @@
       link: /code-of-conduct/
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/
+- name: Events
+  link: /Events/
+  dropdown:
+    - name: "Cells & Spells"
+      link: /events/cellsandspells/
 - name: Verein
   link: /verein/
   dropdown:
