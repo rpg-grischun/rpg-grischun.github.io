@@ -28,14 +28,12 @@ Wir bieten dir:
 
 ## Anmeldung
 
-Melde dich [hier]() an!
+Melde dich [hier](https://forms.gle/JteA9dRbKGme89Kf7) an!
 
 ## FAQ
 
 F: Wie viel Platz habt ihr?
-: A: Wir rechnen mit ca. 30 Personen und haben entsprechend Platz.
+: A: Wir rechnen mit ca. 30 Personen und haben entsprechend Platz. Es wird eine Warteliste geben.
 
 F: Wie gross sind die Zimmer
 : A: Es sind 4er Zimmer, oder auf Wunsch und Aufpreis Doppelzimmer.
-
-[Flyer](/assets/other/cells_and_spells_flyer.pdf)

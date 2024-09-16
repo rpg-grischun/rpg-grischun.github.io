@@ -1,10 +1,21 @@
 ---
+layout: page
 title: Verein RPG Grischun
 permalink: /verein/
 layout: page
 hero_darken: true
+language: de-CH
+hero_image: /assets/images/wizard_lab_2.png
 ---
 
-Der Verein RPG Grischun befindet sich in der Gründungsphase. Wir wollen einen Verein aufbauen, welcher es allen Enthusiasten und Interessierten im Kanton Graubünden ermöglicht sich zu treffen und über RPGs zu reden, und diese natürlich auch zu spielen.
+Der Verein RPG Grischun will die RPG-Community im Raum Graubünden fördern und allen eine Möglichkeit geben dieses wunderbare Hobby zu erleben.
 
-Wir werden in kürze mehr News haben für euch.
+Dazu organisieren wir regelmässige Events und treffen uns für Spiel und Spass.
+
+Solltest auch du dich uns Anschliessen wollen, bitte fülle dieses Formular aus:
+
+[ANMELDUNG RPG Grischung](https://forms.gle/FyJWs5qW3guy5NYs8)
+
+## Kosten
+
+Der Jahresbeitrag beträgt CHF 50.-. Für Minderjährige, Studierende und Personen mit einem Kulturlegi beträgt der Jahresbeitrab CHF 25.-
