@@ -9,7 +9,7 @@ hero_darken: true
 
 # Cells and Spells
 
-Wir kündigen offiziell unseren ersten Event an! In Zusammenarbeit mit dem [Bogentrakt Hostel](https://www.bogentrakt.ch/) veranstalten wir **Cells and Spells**, ein Weekend voller Abenteuer im (ehemals) ältesten Knast der Welt!
+Wir kündigen offiziell unseren ersten Event an! In Zusammenarbeit mit dem [Bogentrakt Hostel](https://www.bogentrakt.ch/) veranstalten wir **Cells and Spells**, ein Weekend voller Abenteuer im (ehemals) härtesten Knast der Schweiz!
 
 Für die Details, könnt ihr hier nachlesen:
 
