@@ -7,19 +7,20 @@
   dropdown:
     - name: "Wer wir sind"
       link: /about-us/
-    - name: "Code of Conduct"
-      link: /code-of-conduct/
     - name: "Stadtbibliothek Chur"
       link: https://www.bibliochur.ch/
 - name: Events
-  link: /Events/
   dropdown:
     - name: "Cells & Spells"
       link: /events/cellsandspells/
+    - name: "Adventure League"
+      link: /adventureleague/
 - name: Verein
   link: /verein/
   dropdown:
     - name: "Statuten"
       link: /verein/statuten/
+    - name: "Code of Conduct"
+      link: /verein/codeofconduct/
 - name: Adventure League
   link: /adventureleague/
