@@ -21,3 +21,5 @@
   dropdown:
     - name: "Statuten"
       link: /verein/statuten/
+- name: Adventure League
+  link: /adventureleague/
