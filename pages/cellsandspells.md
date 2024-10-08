@@ -25,24 +25,24 @@ Hier findet ihr den generellen Ablauf des Wochenendes
 
 #### Samstag, 26 Oktober 2024
 
-Ab 14.00 - Checkin
+**Ab 14.00 - Checkin**
 : Für diejenigen die im Hostel übernachten, ab 14.00 könnt ihr einchecken. Natürlich könnt ihr auch euer Gepäck bereits früher im Hostel zwischenlagern.
 
-15.00 - Let the dice roll!
+**15.00 - Let the dice roll!**
 : Ab 15.00 beginnen wir mit den Spielen. Dabei teilen wir euch auf verschiedene Tische auf, an denen verschiedene One-Shots gespielt werden.
 
-19.00 - Essen fassen
+**19.00 - Essen fassen**
 : Ab 19.00 ist das Essen bereit. Wir pausieren dann für ca. 1 Stunde um uns gemütlich was leckeres in die Bäuche zu schlagen.
 
-20.00 - Spielen bis es nicht mehr geht!
+**20.00 - Spielen bis es nicht mehr geht!**
 : Im Anschluss spielen wir solange weiter bis die One-Shots fertig sind. Anschliessend steht euch der Abend zur freien Verfügung.
 
 #### Sonntag, 27 Oktober 2024
 
-Ab 09.00 - Die Würfel fallen erneut!
+**Ab 09.00 - Die Würfel fallen erneut!**
 : Wer auf ist, gesellt sich an die Spieltische, wo entweder noch One-Shots zuende gespielt werden, oder ein paar Brettspiele hervorgeholt werden
 
-11.00 - Checkout
+**11.00 - Checkout**
 : Bis dann solltet ihr ausgecheckt haben.
 
 Am Sonntag stehen wir gemütlich auf und nehmen uns verschiedene Brettspiele vor. Wir bringen da eine grosszügige Auswahl an Spielen mit, an denen ihr euch Vergnügen könnt. Natürlich, wenn ihr selbst noch etwas habt was ihr gerne spielen möchtet, nehmt das gerne mit. Teilt uns evt. im voraus noch mit welche Spiele ihr mitbringt. Wir werden wohl nicht 10 Uno-Decks benötigen ;)
@@ -90,10 +90,10 @@ Melde dich [hier](https://forms.gle/JteA9dRbKGme89Kf7) an!
 
 ## FAQ
 
-F: Wie viel Platz habt ihr?
+**F: Wie viel Platz habt ihr?**
 : A: Wir rechnen mit ca. 30 Personen und haben entsprechend Platz. Es wird eine Warteliste geben.
 
-F: Wie gross sind die Zimmer
+**F: Wie gross sind die Zimmer**
 : A: Es sind 4er Zimmer, oder auf Wunsch und Aufpreis Doppelzimmer.
 
 ## Flyer
