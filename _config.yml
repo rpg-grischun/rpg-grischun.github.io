@@ -21,6 +21,7 @@ paginate_path: "/blog/page:num"
 plugins:
   - jekyll-feed
   - jekyll-pdf-embed
+  - jekyll-seo-tag
 
 lang: de
 
