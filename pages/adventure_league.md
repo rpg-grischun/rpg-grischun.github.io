@@ -29,6 +29,12 @@ Euer Mortan Plower
 **Für wen ist die Adventure League?**
 : Die Adventure League ist nur für aktive Vereinsmitglieder von RPG Grischun.
 
+**Wo ist die Adventure League?**
+: Wir spielen in den Räumlichkeiten von [Calanda Magich](https://calandamagic.ch/). 
+
+**Wann ist die Adventure League?**
+: Die Adventure League wird immer Mitte Monat stattfinden. Die genauen Daten werden jeweils für die Vereinsmittglieder kommuniziert. Spielzeit ist aber immer 13:30 - 17:30.
+
 **Was für Verhaltensregeln gelten?**
 : Es gelten dieselben wie im [Code of Conduct](/verein/codeofconduct/)
 
