@@ -13,7 +13,7 @@ Wir zeigen dir hier die Geschichte von Avalir.
 {% if entry.category == 'event' %}
 
 <div class="timeline-event">
-  <p><a  href="{{ entry.url }}"><h3>{{ entry.title }}</h3></a></p>
+  <p><a href="{{ entry.url }}"><h3>{{ entry.title }}</h3></a></p>
   <p>{{ entry.description }}</p>
 </div>
 {% endif %}
