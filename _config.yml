@@ -22,8 +22,25 @@ plugins:
   - jekyll-feed
   - jekyll-pdf-embed
   - jekyll-seo-tag
+  - jekyll-admin
+
+collections:
+  posts:
+    output: true
+    sidebar_label: News
+  pages:
+    output: true
+    sidebar_label: "Check it!"
+  blog:
+    output: true
+    permalink: /blog/:path/
+    sidebar_label: "Blog!"
 
 lang: de
+
+jekyll_admin:
+  hidden_links:
+  homepage: "pages"
 
 defaults:
   - scope:
