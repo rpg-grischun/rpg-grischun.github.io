@@ -11,3 +11,11 @@ $primary: #333333;
 
 // Import Main CSS file from theme
 @import "main";
+
+.timeline-event{
+  border: 2px solid black;
+  outline: #4CAF50 solid 10px;
+  margin: 40px;  
+  padding: 20px;
+  text-align: center;
+}

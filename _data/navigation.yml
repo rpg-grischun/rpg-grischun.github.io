@@ -24,3 +24,9 @@
       link: /verein/codeofconduct/
 - name: Adventure League
   link: /adventureleague/
+  dropdown:
+    - name: "Avalir"
+      link: /adventureleague/world/
+      dropdown:
+        - name: "Geschichte"
+          link: /adventureleague/world/history/

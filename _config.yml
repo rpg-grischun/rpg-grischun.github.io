@@ -35,6 +35,9 @@ collections:
     output: true
     permalink: /blog/:path/
     sidebar_label: "Blog!"
+  world:
+    output: true
+    sidebar_label: "World!"
 
 lang: de
 
