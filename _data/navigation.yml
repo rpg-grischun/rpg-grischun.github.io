@@ -26,7 +26,7 @@
   link: /adventureleague/
   dropdown:
     - name: "Avalir"
-      link: /adventureleague/world/
+      link: /adventureleague/avalir/
       dropdown:
         - name: "Geschichte"
           link: /adventureleague/world/history/

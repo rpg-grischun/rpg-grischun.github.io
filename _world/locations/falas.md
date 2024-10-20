@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: city
 time: -100
 title: Falas
 category: location
 parent: Unter Usor
 description: Die Welt von Avalir formt sich aus der primordialen Masse.
 permalink: /adventureleague/world/locations/Falas/
+coordinates: [1275, 1186]
 ---
 
 Falas ist eine Stadt in [Unter Usor](../unter_usor)
