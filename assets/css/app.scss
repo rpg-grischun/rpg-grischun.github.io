@@ -8,6 +8,29 @@
 }
 
 $primary: #333333;
+$secondary: #f3f3f3;
+$floatwidth: 35%;
 
 // Import Main CSS file from theme
 @import "main";
+
+.float-left {
+  float: left;
+  width: $floatwidth;
+  margin: 10px;
+  background-color: $secondary;
+}
+
+.float-right {
+  float: right;
+  width: $floatwidth;
+  margin: 10px;
+  background-color: $secondary;
+}
+
+.signature-nuradministrando {
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+}
