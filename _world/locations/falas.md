@@ -4,7 +4,7 @@ time: -100
 title: Falas
 category: location
 parent: Unter Usor
-description: Die Welt von Avalir formt sich aus der primordialen Masse.
+description: Die grösste Stadt in Usor.
 permalink: /adventureleague/world/locations/Falas/
 coordinates: [1275, 1186]
 ---

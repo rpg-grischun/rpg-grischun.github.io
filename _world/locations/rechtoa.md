@@ -1,9 +1,10 @@
 ---
 layout: page
 time: -100
-title: Falas
+title: Rechtoa
 category: location
-description: Die Welt von Avalir formt sich aus der primordialen Masse.
+description: Vulkan auf Unter Usor.
+parent: Unter Usor
 permalink: /adventureleague/world/locations/recthoa/
 ---
 

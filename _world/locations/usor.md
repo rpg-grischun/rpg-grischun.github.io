@@ -3,6 +3,7 @@ title: Usor
 layout: location
 category: location
 description: Kontinent auf Avalir
+parent: Avalir
 permalink: "/adventureleague/world/locations/usor/"
 ---
 
