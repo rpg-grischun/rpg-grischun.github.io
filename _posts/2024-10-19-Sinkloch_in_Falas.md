@@ -1,10 +1,24 @@
 ---
-layout: post
+layout: quest
 author: Nur Administrando
 title: Falaser Gildenblatt
 summary: Sinkloch in Falas!
 hero_image: /assets/images/adventureleague_banner.png
 hero_darken: true
+quest:
+    name: Sinkloch in Falas
+    xp: 900
+    gp: 130
+characters:
+    - name: Lisvenrith
+      xp: 300
+      gp: 120
+    - name: Brognaar
+      xp: 0
+      gp: 0
+    - name: Clancy
+      xp: 300
+      gp: 120
 ---
 
 ## Sinkloch in Falas

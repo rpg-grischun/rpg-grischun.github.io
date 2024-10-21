@@ -1,0 +1,26 @@
+<div class="al-log">
+    {% for char in page.characters %}
+    <div class="log frame">
+        <p>Name</p>
+        <p>{{ char.name }}</p>
+        <br>
+        <p>Start XP</p>
+        <p>{{ char.xp }}</p>
+        <br>
+        <p>XP Gained</p>
+        <p>{{ page.quest.xp }}</p>
+        <br>
+        <p>End XP</p>
+        <p>{{ char.xp | plus: page.quest.xp }}</p>
+        <br>
+        <p>Start Gold</p>
+        <p>{{ char.gp }}</p>
+        <br>
+        <p>Gold Gained</p>
+        <p>{{ page.quest.gp }}</p>
+        <br>
+        <p>End gold</p>
+        <p>{{ char.gp | plus: page.quest.gp }}</p>
+    </div>
+    {% endfor %}
+</div>
