@@ -7,31 +7,44 @@ hero_image: /assets/images/adventureleague_banner.png
 hero_darken: true
 quest:
     name: Sinkloch in Falas
-    xp: 900
+    xp: 1600
     gp: 130
 characters:
     - name: Lisvenrith
       class: Ranger
       species: Elven
-      xp: 300
+      xp: 400
       gp: 120
       items:
         - Kleiner Heiltrank
+        - Kleiner Goldener Schlüssel
+        - Okulistoj-Halskette
     - name: Brognaar
       class: Barbarian
       species: Goliath 
-      xp: 0
-      gp: 0
-      items:
-        - Kleiner Heiltrank
-    - name: Clancy
-      class: Fighter
-      species: Human  
-      xp: 300
+      xp: 400
       gp: 120
       items:
         - Kleiner Heiltrank
         - +1 Schwert
+        - Okulistoj-Halskette
+    - name: Clancy
+      class: Fighter
+      species: Human  
+      xp: 400
+      gp: 100
+      items:
+        - Kleiner Heiltrank
+        - Ring mit "Burton Boot" eingraviert
+        - Okulistoj-Halskette
+    - name: Kurrk
+      class: Fighter
+      species: Human  
+      xp: 400
+      gp: 120
+      items:
+        - Kleiner Heiltrank
+        - Okulistoj-Halskette
 ---
 
 ## Sinkloch in Falas
@@ -40,6 +53,8 @@ Viele werden das Erdbeben vor 3 Tagen gespürt haben, doch die Auswirkungen sind
 
 So wurde die Abenteurer-Gilde angefragt diese Tunnels zu erforschen. Natürlich scheut sich die Gilde nie, bei entprechender Bezahlung versteht sich, solche Gefahren für die allgemeine Öffentlichkeit zu klären. Somit sandten wir 4 unserer besten Mitglieder aus. Da diese aber nicht verfügbar waren, fand unser Hexenmeister klugerweise schnell geeigneten Ersatz:
 
+Lisvenrith, eine Elbe, Brognaar, ein Goliath, Clancy, ein Mensch, und Kurrk, ein Halbelbe.
+
 > Gemäss ihrem Bericht, wurden unsere Abenteurer von einem jungen Gnom in einen Hinterhalt geführt, wo sie von einer Diebesbande angeführt von einem Skelett überfallen wurden. Schwer glaubhaft, aber das Skelett schien in voller Kontrolle seiner geistigen Fähigkeiten zu sein.
 >
 > Jonathan Obskuro zahlt jedem Abenteurer der ihm mehr Informationen über dieses Skelett bringt eine Belohnung!
@@ -47,7 +62,7 @@ So wurde die Abenteurer-Gilde angefragt diese Tunnels zu erforschen. Natürlich 
 
 Nach kleineren Zwischenfällen stiegen unsere tapferen Abenteurer in das Senkloch und fanden einen alten Tunnel, welcher sie zugleich erforschten. Schnell fanden sie einen Raum, in welchem sich Anwärter für eine noch zu bestimmende Religion in verschiedenen Mutproben beweisen mussten. Die Abenteurer baten mich hier zu erwähnen, dass riesige Ratten sich sehr gut für Experimente eignen, z.B. ob eine Falle gefährlich ist, oder was für Auswirkungen eine gewisse Flüssigkeit hat. Ich kann solche Taktiken weder gut heissen noch verurteilen.
 
- So stieg XXX in vier verschiedene Bäder, jedes mit einer anderen psycho-aktiven Flüssigkeit gefüllt. Die Erklärung der Wirkung dieser Bäder entgeht unserem aktuellen Verständnis, weshalb wir bei der Stadt eine Bewilligung eingereicht haben, diese Bäder durch unsere Profis untersuchen zu lassen[^nachtrag].
+ So stieg Lisvenrith in vier verschiedene Bäder, jedes mit einer anderen psycho-aktiven Flüssigkeit gefüllt. Die Erklärung der Wirkung dieser Bäder entgeht unserem aktuellen Verständnis, weshalb wir bei der Stadt eine Bewilligung eingereicht haben, diese Bäder durch unsere Profis untersuchen zu lassen[^nachtrag].
 
 [^nachtrag]: Leider ging dieser Zuschlag an die Nicht-Profis der fliegenden Universität.
 
