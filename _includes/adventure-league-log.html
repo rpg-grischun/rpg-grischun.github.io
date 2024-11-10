@@ -11,37 +11,37 @@
                 <polyline points="0,0 400,2.5 0,5"></polyline>
             </svg>
             <div class="log-block">
-                <h3>Experience</h3>
+                <h3>Erfahrung</h3>
                 <div class="property-block">
                     <h4>Start XP</h4>
                     <p>{{ char.xp }}</p>
                 </div> <!-- property block -->
                 <div class="property-block">
-                    <h4>XP Gained</h4>
-                    <p>{{ page.quest.xp }}</p>
+                    <h4>Gewonnene XP</h4>
+                    <p>{{ page.quest.xp | divided_by: forloop.length }}</p>
                 </div> <!-- property block -->
                 <div class="property-block">
-                    <h4>End XP</h4>
-                    <p>{{ char.xp | plus: page.quest.xp }}</p>
+                    <h4>Aktuelle XP</h4>
+                    <p>{{ page.quest.xp | divided_by: forloop.length | plus: char.xp }}</p>
                 </div> <!-- property block -->
                 <br>
             </div>
             <div class="log-block">
-                <h3>Treasure</h3>
+                <h3>Schätze</h3>
                 <div class="property-block">
                     <h4>Start Gold</h4>
                     <p>{{ char.gp }}</p>
                 </div>
                 <div class="property-block">
-                    <h4>Gold Gained</h4>
-                    <p>{{ page.quest.gp }}</p>
+                    <h4>Gewonnenes Gold</h4>
+                    <p>{{ page.quest.gp | divided_by: forloop.length }}</p>
                 </div>
                 <div class="property-block">
-                    <h4>End gold</h4>
-                    <p>{{ char.gp | plus: page.quest.gp }}</p>
+                    <h4>Aktuelles Gold</h4>
+                    <p>{{ page.quest.gp | divided_by: forloop.length | plus: char.gp }}</p>
                 </div>
                 <div class="property-block">
-                    <h4>Items</h4>
+                    <h4>Gewonnene Items</h4>
                     <p>{{ char.items | array_to_sentence_string: "" }}</p>
                 </div>
             </div>

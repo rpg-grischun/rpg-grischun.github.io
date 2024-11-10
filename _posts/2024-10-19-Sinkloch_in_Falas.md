@@ -11,7 +11,7 @@ quest:
     gp: 130
 characters:
     - name: Lisvenrith
-      class: Ranger
+      class: Sorcerer
       species: Elven
       xp: 400
       gp: 120
@@ -21,15 +21,15 @@ characters:
         - Okulistoj-Halskette
     - name: Brognaar
       class: Barbarian
-      species: Goliath 
-      xp: 400
+      species: Shifter
+      xp: 0
       gp: 120
       items:
         - Kleiner Heiltrank
         - +1 Schwert
         - Okulistoj-Halskette
     - name: Clancy
-      class: Fighter
+      class: Warlock
       species: Human  
       xp: 400
       gp: 100
@@ -38,8 +38,8 @@ characters:
         - Ring mit "Burton Boot" eingraviert
         - Okulistoj-Halskette
     - name: Kurrk
-      class: Fighter
-      species: Human  
+      class: Ranger
+      species: Aarakocra  
       xp: 400
       gp: 120
       items:
@@ -87,5 +87,3 @@ Gezeichtnet
 
 Nur Administrando - Hochgildenmeister von Falas
 {: .signature-nuradministrando }
-
-
