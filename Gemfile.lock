@@ -19,12 +19,8 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.0-x64-mingw-ucrt)
-    ffi (1.17.0-x86_64-linux)
     forwardable-extended (2.6.0)
-    google-protobuf (4.28.2-x64-mingw-ucrt)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.28.2-x86_64-linux)
+    google-protobuf (4.28.3-x64-mingw-ucrt)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -82,21 +78,19 @@ GEM
     rack-protection (3.2.0)
       base64 (>= 0.1.0)
       rack (~> 2.2, >= 2.2.4)
-    rackup (1.0.0)
+    rackup (1.0.1)
       rack (< 3)
       webrick
     rake (13.2.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rexml (3.3.8)
+    rexml (3.3.9)
     rouge (4.4.0)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.79.4-x64-mingw-ucrt)
-      google-protobuf (~> 4.27)
-    sass-embedded (1.79.4-x86_64-linux)
-      google-protobuf (~> 4.27)
+    sass-embedded (1.80.6-x64-mingw-ucrt)
+      google-protobuf (~> 4.28)
     sinatra (3.2.0)
       mustermann (~> 3.0)
       rack (~> 2.2, >= 2.2.4)
@@ -117,11 +111,10 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
     wdm (0.2.0)
-    webrick (1.8.2)
+    webrick (1.9.0)
 
 PLATFORMS
   x64-mingw-ucrt
-  x86_64-linux
 
 DEPENDENCIES
   bulma-clean-theme (= 1.0.0)
@@ -140,4 +133,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.9
+   2.5.16
