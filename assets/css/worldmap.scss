@@ -1,0 +1,26 @@
+
+.world_map_container {
+  position: relative;
+  border-width: 50px;
+  border-color: #4CAF50;
+  width: 100%;
+  height: 100%;
+}
+
+// .world_map_link {
+//   position: absolute;
+//   background: magenta;
+// }
+
+.world_map_link {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  background: #00cae9;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  margin: -20px 0 0 -20px;
+  font-size: 5px;
+}
