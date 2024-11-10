@@ -1,26 +1,54 @@
 <div class="al-log">
     {% for char in page.characters %}
-    <div class="log frame">
-        <p>Name</p>
-        <p>{{ char.name }}</p>
-        <br>
-        <p>Start XP</p>
-        <p>{{ char.xp }}</p>
-        <br>
-        <p>XP Gained</p>
-        <p>{{ page.quest.xp }}</p>
-        <br>
-        <p>End XP</p>
-        <p>{{ char.xp | plus: page.quest.xp }}</p>
-        <br>
-        <p>Start Gold</p>
-        <p>{{ char.gp }}</p>
-        <br>
-        <p>Gold Gained</p>
-        <p>{{ page.quest.gp }}</p>
-        <br>
-        <p>End gold</p>
-        <p>{{ char.gp | plus: page.quest.gp }}</p>
+    <div class="al-log frame">
+        <hr class="orange-border" />
+        <div>
+            <div class="character-heading">
+                <h1>{{ char.name }}</h1>
+                <h2>{{ char.species }} {{ char.class }}</h2>
+            </div>
+            <svg height="5" width="100%" class="tapered-rule">
+                <polyline points="0,0 400,2.5 0,5"></polyline>
+            </svg>
+            <div class="log-block">
+                <h3>Experience</h3>
+                <div class="property-block">
+                    <h4>Start XP</h4>
+                    <p>{{ char.xp }}</p>
+                </div> <!-- property block -->
+                <div class="property-block">
+                    <h4>XP Gained</h4>
+                    <p>{{ page.quest.xp }}</p>
+                </div> <!-- property block -->
+                <div class="property-block">
+                    <h4>End XP</h4>
+                    <p>{{ char.xp | plus: page.quest.xp }}</p>
+                </div> <!-- property block -->
+                <br>
+            </div>
+            <div class="log-block">
+                <h3>Treasure</h3>
+                <div class="property-block">
+                    <h4>Start Gold</h4>
+                    <p>{{ char.gp }}</p>
+                </div>
+                <div class="property-block">
+                    <h4>Gold Gained</h4>
+                    <p>{{ page.quest.gp }}</p>
+                </div>
+                <div class="property-block">
+                    <h4>End gold</h4>
+                    <p>{{ char.gp | plus: page.quest.gp }}</p>
+                </div>
+                <div class="property-block">
+                    <h4>Items</h4>
+                    <p>{{ char.items | array_to_sentence_string: "," }}</p>
+                </div>
+            </div>
+            <div class="log-block">
+            </div>
+        </div>
+        <hr class="orange-border bottom" />
     </div>
     {% endfor %}
 </div>

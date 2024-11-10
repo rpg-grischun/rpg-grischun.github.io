@@ -13,6 +13,7 @@ $floatwidth: 35%;
 
 // Import Main CSS file from theme
 @import "main";
+@import "log";
 
 .timeline-event {
   border: 2px solid black;
@@ -62,23 +63,4 @@ $floatwidth: 35%;
 .world_map_link {
   position: absolute;
   background: magenta;
-}
-
-.log.frame {
-  border: #4CAF50;
-}
-
-.al .log.frame {
-  width: calc(100% + .32cm);
-  padding: 4px 2px;
-  margin-right: -0.16cm;
-  margin-left: -0.16cm;
-  background-color: var(--HB_Color_MonsterStatBackground);
-  background-image: url('/assets/parchmentBackgroundGrayscale.jpg');
-  background-blend-mode: overlay;
-  border-style: solid;
-  border-width: 7px 6px;
-  border-image: url('/assets/images/monsterBorderFancy.png') 14 round;
-  border-image-outset: 0px 2px;
-  box-shadow: 1px 4px 14px #888888
 }

@@ -1,0 +1,92 @@
+.al-log {
+    border: #867453;
+}
+
+.al-log .frame {
+  text-align: left;
+  margin: 20px;
+  display: inline-block;
+  vertical-align: top;
+  width: 17%;
+  min-width:280px;
+  background: #FDF1DC;
+  padding: 5px 10px 20px;
+  box-shadow: 0 0 1.5em #867453;
+}
+
+.orange-border{
+  display: block;
+  background: #E69A28;
+  border: 1px solid #000;
+  height: 5px;
+  padding: 0 10px 0;
+  margin: -10px -10px 0;
+  box-sizing: initial;
+}
+
+.orange-border.bottom{
+  margin: 15px -10px -20px;
+}
+
+.tapered-rule{
+  display: block;
+  width: 100%;
+  height: 5px;
+  border: none;
+  color: #922610;
+  fill: #922610;
+  stroke: #922610;
+}
+
+.character-heading h1{
+  font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+  color: #922610;
+  font-size: 23px;
+  line-height: 1.2em;
+  margin: 10px 0 0;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+.character-heading h2{
+  font-weight: normal;
+  font-style: italic;
+  font-size: 12px;
+  line-height: 1.2em;
+  margin: 0 0 10px;
+}
+
+.property-block h4,
+.property-block p{
+  font-size: 13.5px;
+  line-height: 1.2em;
+  display: inline;
+  margin: 0;
+}
+
+.property-block h4{
+  font-style: italic;
+}
+
+.property-block{
+  padding: 10px 2px 0;
+}
+
+.log-block h3{
+  border-bottom: 1px solid #7A200D;
+  color: #7A200D;
+  font-size: 21px;
+  font-variant: small-caps;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin: 20px 0 0;
+  padding: 0 0 10px;
+  text-indent: 5px;
+}
+.log-block{
+  margin: 0 0 20px;
+}
+.log-block:last-child{
+  margin: 0;
+}

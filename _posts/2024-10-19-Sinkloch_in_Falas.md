@@ -11,14 +11,27 @@ quest:
     gp: 130
 characters:
     - name: Lisvenrith
+      class: Ranger
+      species: Elven
       xp: 300
       gp: 120
+      items:
+        - Kleiner Heiltrank
     - name: Brognaar
+      class: Barbarian
+      species: Goliath 
       xp: 0
       gp: 0
+      items:
+        - Kleiner Heiltrank
     - name: Clancy
+      class: Fighter
+      species: Human  
       xp: 300
       gp: 120
+      items:
+        - Kleiner Heiltrank
+        - +1 Schwert
 ---
 
 ## Sinkloch in Falas
