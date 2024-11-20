@@ -8,7 +8,7 @@
       "layout: character",
       "title: ${1:Name}",
       "description: ${2:Beschreibung}",
-      "permalink: /adventureleague/world/characters/${3:link}/",
+      "permalink: /avalir/charaktere/${3:link}/",
       "---",
       "${0}"
     ],
@@ -23,7 +23,7 @@
       "layout: location",
       "title: ${1:Name}",
       "description: ${2: Beschreibung}",
-      "permalink: /adventureleague/world/locations/${3:Link}/",
+      "permalink: /avalir/locations/${3:Link}/",
       "parent: ${4:Inside}",
       "coordinates: [${5:Breite}, ${6:Höhe}]",
       "---",
@@ -40,7 +40,7 @@
       "layout: organization",
       "title: ${1:Name}",
       "description: ${2:Beschreibung}",
-      "permalink: /adventureleague/world/organizations/${3:Link}/",
+      "permalink: /avalir/organizations/${3:Link}/",
       "---",
       "${0}"
     ],
