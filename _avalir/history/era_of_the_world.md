@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: event
 time: 0
 title: Das Zeitalter der Welt
-category: event
 description: Beginn der ersten Ära
 permalink: /avalir/history/worldera/
 ---

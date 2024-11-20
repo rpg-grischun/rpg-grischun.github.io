@@ -40,7 +40,7 @@
       "layout: organization",
       "title: ${1:Name}",
       "description: ${2:Beschreibung}",
-      "permalink: /avalir/organizations/${3:Link}/",
+      "permalink: /avalir/organisationen/${3:Link}/",
       "---",
       "${0}"
     ],

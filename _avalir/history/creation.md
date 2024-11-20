@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: event
 time: 100
 title: Vorzeit
-category: event
 description: Die Welt von Avalir formt sich aus der primordialen Masse.
 permalink: /avalir/history/vorzeit/
 ---

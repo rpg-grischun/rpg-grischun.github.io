@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: event
 time: 1
 title: Der Grenzwall
-category: event
 description: Usor wird getrennt
 permalink: /avalir/history/grenzwall/
 ---

@@ -10,7 +10,7 @@ hero_image: /assets/images/quest_board.jpg
 Wir zeigen dir hier die Geschichte von Avalir.
 
 {% for entry in site.avalir %}
-{% if entry.category == 'event' %}
+{% if entry.layout == 'event' %}
 
 <div class="timeline-event">
   <p><a href="{{ entry.url }}"><h3>{{ entry.title }}</h3></a></p>

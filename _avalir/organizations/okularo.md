@@ -2,7 +2,7 @@
 layout: organization
 title: Okularo
 description: Krimineller Kult
-permalink: /avalir/organizations/okularo/
+permalink: /avalir/organisationen/okularo/
 ---
 
 Eine Gruppe, die einem Beholder folgt.

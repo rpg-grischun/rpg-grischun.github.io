@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: event
 time: 2
 title: Rechtoa
-category: event
 description: Usor wird getrennt
 permalink: /avalir/history/rechtoa/
 ---

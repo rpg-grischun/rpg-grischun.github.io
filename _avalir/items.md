@@ -12,7 +12,7 @@ hero_image: /assets/images/quest_board.jpg
     <th>Beschreibung</th>
   </tr>
 {% for entry in site.avalir %}
-{% if entry.category == 'item' %}
+{% if entry.layout == 'item' %}
   <tr>
     <td><a href="{{ entry.permalink }}">{{ entry.title }}</a></td>
     <td>{{ entry.description }}</td>
