@@ -35,9 +35,10 @@ collections:
     output: true
     permalink: /blog/:path/
     sidebar_label: "Blog!"
-  world:
+  avalir:
     output: true
-    sidebar_label: "World!"
+    # permalink: /avalir/:path/
+    sidebar_label: "Avalir!"
 
 lang: de
 
@@ -51,3 +52,7 @@ defaults:
       type: "pages"
     values:
       hero_image: /assets/images/dice_pile.png
+
+relative_links:
+  enabled:     true
+  collections: true

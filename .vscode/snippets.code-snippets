@@ -1,0 +1,49 @@
+{
+  "Character": {
+    "prefix": [
+      "chr", "cha"
+    ],
+    "body": [
+      "---",
+      "layout: character",
+      "title: ${1:Name}",
+      "description: ${2:Beschreibung}",
+      "permalink: /avalir/charaktere/${3:link}/",
+      "---",
+      "${0}"
+    ],
+    "description": "Snippet to create a character"
+  },
+  "Location": {
+    "prefix": [
+      "loc"
+    ],
+    "body": [
+      "---",
+      "layout: location",
+      "title: ${1:Name}",
+      "description: ${2: Beschreibung}",
+      "permalink: /avalir/locations/${3:Link}/",
+      "parent: ${4:Inside}",
+      "coordinates: [${5:Breite}, ${6:Höhe}]",
+      "---",
+      "${0}"
+    ],
+    "description": "Snippet to create a character"
+  },
+  "Organization": {
+    "prefix": [
+      "org"
+    ],
+    "body": [
+      "---",
+      "layout: organization",
+      "title: ${1:Name}",
+      "description: ${2:Beschreibung}",
+      "permalink: /avalir/organizations/${3:Link}/",
+      "---",
+      "${0}"
+    ],
+    "description": "Snippet to create a character"
+  }
+}

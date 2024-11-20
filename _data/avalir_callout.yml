@@ -5,14 +5,14 @@ items:
     subtitle: Was geschah bisher auf Avalir?
     icon: fa-book
     call_to_action_name: Hier gehts weiter
-    call_to_action_link: /adventureleague/world/history/
+    call_to_action_link: /avalir/history/
   - title: 
     subtitle: Bewohner
     icon: fa-person
     call_to_action_name: Anmelden!
-    call_to_action_link: /adventureleague/world/characters/
+    call_to_action_link: /avalir/charaktere/
   - title: Orte
     subtitle: Ich bin schon Spielleiter und möchte gerne mitmachen!
     icon: fa-map
     call_to_action_name: Anmeldung für DMs!
-    call_to_action_link: /adventureleague/world/locations/
+    call_to_action_link: /avalir/locations/
