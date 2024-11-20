@@ -1,7 +1,7 @@
 ---
-title: Orte
+title: Charaktere
 layout: page
-permalink: /adventureleague/avalir/locations/
+permalink: /adventureleague/avalir/charaktere/
 hero_darken: true
 language: de-CH
 hero_image: /assets/images/quest_board.jpg
@@ -11,14 +11,12 @@ hero_image: /assets/images/quest_board.jpg
   <tr>
     <th>Name</th>
     <th>Beschreibung</th>
-    <th>Ist In</th>
   </tr>
 {% for entry in site.world %}
-{% if entry.layout == 'location' %}
+{% if entry.layout == 'character' %}
   <tr>
     <td><a href="{{ entry.permalink }}">{{ entry.title }}</a></td>
     <td>{{ entry.description }}</td>
-    <td>{{ entry.parent }}</td>
   </tr>
 {% endif %}
 {% endfor %}

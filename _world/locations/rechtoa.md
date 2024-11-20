@@ -1,11 +1,10 @@
 ---
-layout: page
-time: -100
+layout: location
 title: Rechtoa
-category: location
-description: Vulkan auf Unter Usor.
-parent: Unter Usor
-permalink: /adventureleague/world/locations/recthoa/
+description: Vulkan auf Ukaresh
+permalink: /adventureleague/world/locations/rechtoa/
+parent: Ukaresh
+coordinates: [5000, 5000]
 ---
 
-Falas ist eine Stadt in [Unter Usor](unter_usor.md)
+Rechtoa ist ein Vulkan auf Ukaresh

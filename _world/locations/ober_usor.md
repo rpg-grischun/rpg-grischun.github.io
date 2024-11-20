@@ -1,7 +1,6 @@
 ---
 layout: location
 title: Ober Usor
-category: location
 parent: Usor
 description: Subkontinent des Kontinenten [Usor](usor.md).
 permalink: /adventureleague/world/locations/ober_usor/

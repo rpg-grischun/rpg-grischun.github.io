@@ -3,11 +3,11 @@ layout: page
 ---
 {{ content }}
 
-<h2>Locations</h2>
+<h2>Members</h2>
 
 {% for entry in site.world %}
-{% if entry.layout == 'location' and entry.parent == page.title %}
-<div class="sub-location">
+{% if entry.layout == 'character' and entry.member_of == page.title %}
+<div class="organization member">
   <p><a href="{{ entry.url }}">
       <h3>{{ entry.title }}</h3>
     </a></p>

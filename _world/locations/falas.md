@@ -1,11 +1,9 @@
 ---
-layout: city
-time: -100
+layout: location
 title: Falas
-category: location
 parent: Unter Usor
 description: Die grösste Stadt in Usor.
-permalink: /adventureleague/world/locations/Falas/
+permalink: /adventureleague/world/locations/falas/
 coordinates: [1275, 1186]
 ---
 
