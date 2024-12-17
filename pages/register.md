@@ -20,7 +20,11 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 
 Anmelden kannst du dich über folgenden Link:
 
-[03.12.2024](https://forms.gle/RWqLnqk69RQbPh9z6)
+NUR IM JANUAR: ONE Page Extravaganza
+
+Wir spielen RPGs, welche ihre Regeln auf nur einem A4 Blatt unterbringen können. Check im Discord, was für RPGs euch erwarten!
+
+[07.01.2025](https://forms.gle/YsJut2aYHv1n45SK7)
 
 ## Ich habe weitere Fragen!
 
