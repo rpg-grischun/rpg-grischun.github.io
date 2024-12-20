@@ -10,7 +10,7 @@ include_stylesheets:
 quest:
     name: Wölfe terrorisieren Vilsafo
     xp: 1400
-    gp: 800
+    gp: 640
 characters:
     - name: Arik
       class: Warlock
