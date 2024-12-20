@@ -5,6 +5,8 @@ title: Falaser Gildenblatt
 summary: Sinkloch in Falas!
 hero_image: /assets/images/adventureleague_banner.png
 hero_darken: true
+include_stylesheets:
+  - https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap
 quest:
     name: Sinkloch in Falas
     xp: 1600

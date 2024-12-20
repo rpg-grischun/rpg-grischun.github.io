@@ -10,7 +10,8 @@
             "args": [
                 "exec",
                 "jekyll",
-                "serve"
+                "serve",
+                "--trace"
             ],
             "problemMatcher": []
         }

@@ -1,6 +1,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap" rel="stylesheet">
+<!-- Included additional stylesheets -->
+{% if page.include_stylesheets And page.include_stylesheets != "" And page.include_stylesheets != nil %}
+{% for entry in page.include_stylesheets %}
+<link href="{{ entry }}" rel="stylesheet">
+{% endfor %}
+{% endif %}
+<!-- Included additional scripts -->
 {% if page.include_scripts And page.include_scripts != "" And page.include_scripts != nil %}
 {% for entry in page.include_scripts %}
 <script src="{{ entry }}" type="module"></script>
