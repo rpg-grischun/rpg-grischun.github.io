@@ -42,7 +42,11 @@
                 </div>
                 <div class="property-block">
                     <h4>Gewonnene Items</h4>
+                    {% if char.items != nil %}
                     <p>{{ char.items | array_to_sentence_string: "" }}</p>
+                    {% else %}
+                    <p> - </p>
+                    {% endif %}
                 </div>
             </div>
             <div class="log-block">
