@@ -54,5 +54,5 @@ defaults:
       hero_image: /assets/images/dice_pile.png
 
 relative_links:
-  enabled:     true
+  enabled: true
   collections: true
