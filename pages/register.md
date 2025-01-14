@@ -24,7 +24,9 @@ NUR IM JANUAR: ONE Page Extravaganza
 
 Wir spielen RPGs, welche ihre Regeln auf nur einem A4 Blatt unterbringen können. Check im Discord, was für RPGs euch erwarten!
 
-[07.01.2025](https://forms.gle/YsJut2aYHv1n45SK7)
+[04.02.2025](https://forms.gle/SkciymBoQnqbjdbb7)
+
+[04.03.2025](https://forms.gle/X3DiYJckdUoE8e5m9)
 
 ## Ich habe weitere Fragen!
 
