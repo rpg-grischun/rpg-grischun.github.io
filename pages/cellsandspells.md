@@ -6,7 +6,7 @@ permalink: /events/cellsandspells/
 hero_darken: true
 ---
 
-# Cells & Spells: 26-27 Oktober, Chur
+# Cells & Spells: 20-21 Juni 2025, Chur
 
 Du wolltest schon immer Dungeons & Dragons in einem richtigen Dungeon spielen? Hier ist deine Chance.
 
@@ -17,25 +17,24 @@ Wir bieten dir:
 - Eine Übernachtung im historischen Gefängnis in Chur
 - Neue Leute, neue OneShots, neue Erlebnisse
 
+**Anmeldung** siehe [Anmeldung](#anmeldung)
+
 ## Programm
 
 Hier findet ihr den generellen Ablauf des Wochenendes
 
 ### Ablauf
 
-#### Samstag, 26 Oktober 2024
+#### Samstag, 20 Juni 2025
 
-**Ab 14.00 - Checkin**
-: Für diejenigen die im Hostel übernachten, ab 14.00 könnt ihr einchecken. Natürlich könnt ihr auch euer Gepäck bereits früher im Hostel zwischenlagern.
-
-**15.00 - Let the dice roll!**
+**Ab 13.00 - Let the dice roll!**
 : Ab 15.00 beginnen wir mit den Spielen. Dabei teilen wir euch auf verschiedene Tische auf, an denen verschiedene One-Shots gespielt werden.
 
-**19.00 - Essen fassen**
-: Ab 19.00 ist das Essen bereit. Wir pausieren dann für ca. 1 Stunde um uns gemütlich was leckeres in die Bäuche zu schlagen.
+**Ab ca 19.30 - Mahlzeit!**
+: Um diese Zeit steht das Essen bereit. Die Tisch können sich dann individuell verpflegen.
 
 **20.00 - Spielen bis es nicht mehr geht!**
-: Im Anschluss spielen wir solange weiter bis die One-Shots fertig sind. Anschliessend steht euch der Abend zur freien Verfügung.
+: Im Anschluss spielen wir solange weiter bis die One-Shots fertig sind. Der Abend steht euch dann zur freien Verfügung.
 
 #### Sonntag, 27 Oktober 2024
 
@@ -45,19 +44,11 @@ Hier findet ihr den generellen Ablauf des Wochenendes
 **11.00 - Checkout**
 : Bis dann solltet ihr ausgecheckt haben.
 
-Am Sonntag stehen wir gemütlich auf und nehmen uns verschiedene Brettspiele vor. Wir bringen da eine grosszügige Auswahl an Spielen mit, an denen ihr euch Vergnügen könnt. Natürlich, wenn ihr selbst noch etwas habt was ihr gerne spielen möchtet, nehmt das gerne mit. Teilt uns evt. im voraus noch mit welche Spiele ihr mitbringt. Wir werden wohl nicht 10 Uno-Decks benötigen ;)
+Am Sonntag stehen wir gemütlich auf und nehmen uns verschiedene Brettspiele vor. Wir bringen da eine grosszügige Auswahl an Spielen mit, an denen ihr euch Vergnügen könnt. Natürlich, wenn ihr selbst noch etwas habt was ihr gerne spielen möchtet, nehmt das gerne mit. Teilt uns evt. im voraus noch mit welche Spiele ihr mitbringt. Wir werden wohl nicht 10 Uno-Decks benötigen.
 
 ### Essen
 
-Wir haben für euch ein leckeres Menü zusammengestellt:
-
-- Satay-Poulet Spiesschen mit Erdnuss-Sauce
-- Frühlingsrollen
-- Pad Thai (vegi)
-- Gebratener Reis (Poulet)
-- Fruchtplatte (Mango, Ananas, Melone, süsse Papaya)
-
-Sollte für euch auf dem Menü etwas nicht passen, bitte gebt uns bescheid.
+Das genaue Menu ist noch in Planung, wird aber so bald wie möglich veröffentlicht.
 
 ### One-Shots
 
@@ -76,17 +67,13 @@ Vom Bahnhof sind es ca. 10-15 Laufminuten.
 ## Preise
 
 **Eintritt**
-: 15 CHF
+: 25 CHF
 
 **Verpflegung**
-: 35 CHF
+: 50 CHF
 
 **Übernachtung**
 : ab 30 CHF
-
-## Anmeldung
-
-Melde dich [hier](https://forms.gle/JteA9dRbKGme89Kf7) an!
 
 ## FAQ
 
@@ -96,6 +83,11 @@ Melde dich [hier](https://forms.gle/JteA9dRbKGme89Kf7) an!
 **F: Wie gross sind die Zimmer**
 : A: Es sind 4er Zimmer, oder auf Wunsch und Aufpreis Doppelzimmer.
 
-## Flyer
+**F: Ab wann kann man das Check-In machen?"
+: A: Für diejenigen die im Hostel übernachten, ab 14.00 könnt ihr einchecken. Natürlich könnt ihr auch euer Gepäck bereits früher im Hostel zwischenlagern. Das Check-In geht realtiv schnell und kann in einer Pause erledigt werden.
 
-{% pdf "/assets/other/cells_and_spells_flyer.pdf" %}
+## Anmeldung
+
+Die Anmeldung schalten wir ab April auf. Solltest du eine Erinnerung erhalten wollen, trage dich hier ein:
+
+[Mail-List](https://forms.gle/jeCBcTw16795h9iY8)
