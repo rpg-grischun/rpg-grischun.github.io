@@ -10,7 +10,7 @@ hero_darken: true
 
 Du wolltest schon immer Dungeons & Dragons in einem richtigen Dungeon spielen? Hier ist deine Chance.
 
-In Zusammenarbeit mit dem [Bogentrakt Hostel](https://www.bogentrakt.ch/) in Chur organisieren wir den ersten **Cells & Spells** Event. Im ehemals härtesten Knast der Schweiz schlägst du dich durch einen Nachmittag voller Gefahren, Geister, Goblins und anderen Sachen, die mit G beginnen.
+In Zusammenarbeit mit dem [Bogentrakt Hostel](https://www.bogentrakt.ch/) in Chur organisieren wir das **Cells & Spells** Event. Im ehemals härtesten Knast der Schweiz schlägst du dich durch einen Nachmittag voller Gefahren, Geister, Goblins und anderen Sachen, die mit G beginnen.
 
 Wir bieten dir:
 
@@ -21,7 +21,7 @@ Wir bieten dir:
 
 ## Programm
 
-Spielbeginn wird um 13:00 im Hostel sein. Das komplette Programm präsentieren wir noch zeitlich vor dem Event.
+Spielbeginn wird um 13.00 im Hostel sein. Das komplette Programm präsentieren wir noch zeitlich vor dem Event.
 
 ### Essen
 
@@ -33,7 +33,7 @@ Das genaue Menü ist noch in Planung, wird aber so bald wie möglich veröffentl
 
 Wir sind nun gemeinsam mit den Spielleitern dran, die One-Shots zusammenzustellen. Dazu geben wir euch auch bald noch mehr Informationen.
 
-Wir peilen verschiedene One-Shots in den Level 3-10 an. Damit ihr euch da schon ein wenig Gedanken machen könnt. Natürlich haben wir auch einige vorbereitete Charaktere da, aber der grösste Genuss ist natürlich immer, mit einem eigenen Charakter zu spielen.
+Wir peilen verschiedene One-Shots in den Level 3–10 an. Damit ihr euch da schon ein wenig Gedanken machen könnt. Natürlich haben wir auch einige vorbereitete Charaktere da, aber der grösste Genuss ist natürlich immer, mit einem eigenen Charakter zu spielen.
 
 Bei der Anmeldung präsentieren wir euch eine Auswahl an verschiedenen One-Shots. Ihr könnt euch für die anmelden, welche für euch am spannendsten klingen. Entsprechend den Anmeldungen werden diese dann durchgeführt.
 
@@ -75,6 +75,6 @@ Vom Bahnhof sind es ca. 10–15 Laufminuten.
 
 ## Anmeldung
 
-Die Anmeldung schalten wir ab April auf. Solltest du eine Erinnerung erhalten wollen, trage dich hier ein:
+Anmelden könnt ihr euch unter folgendem Link:
 
 [ANMELDUNG HIER](https://forms.gle/1zBZVqj7RAnAe31F8)
