@@ -77,4 +77,4 @@ Vom Bahnhof sind es ca. 10-15 Laufminuten.
 
 Die Anmeldung schalten wir ab April auf. Solltest du eine Erinnerung erhalten wollen, trage dich hier ein:
 
-[Mail-List](https://forms.gle/jeCBcTw16795h9iY8)
+[ANMELDUNG HIER](https://forms.gle/1zBZVqj7RAnAe31F8)
