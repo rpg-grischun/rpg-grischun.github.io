@@ -1,5 +1,8 @@
 {
   "cSpell.words": [
     "avalir"
+  ],
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "one-shots"
   ]
 }

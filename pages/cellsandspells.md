@@ -6,7 +6,7 @@ permalink: /events/cellsandspells/
 hero_darken: true
 ---
 
-# Cells & Spells: 20-21 Juni 2025, Chur
+# Cells & Spells: 20-21. Juni 2025, Chur
 
 Du wolltest schon immer Dungeons & Dragons in einem richtigen Dungeon spielen? Hier ist deine Chance.
 
@@ -25,9 +25,9 @@ Spielbeginn wird um 13:00 im Hostel sein. Das komplette Programm präsentieren w
 
 ### Essen
 
-Das genaue Menu ist noch in Planung, wird aber so bald wie möglich veröffentlicht. Bei der Anmeldung werden wir natürlich auf Vegetarisch/Vegan Rücksicht nehmen, sowie euch die Möglichkeit geben, uns Allergien oder sonstige Unverträglichkeiten mitzuteilen.
+Das genaue Menü ist noch in Planung, wird aber so bald wie möglich veröffentlicht. Bei der Anmeldung werden wir natürlich auf Vegetarisch/Vegan Rücksicht nehmen, sowie euch die Möglichkeit geben, uns Allergien oder sonstige Unverträglichkeiten mitzuteilen.
 
-> Hinweis: Es wird ein Menu für alle geben. Sollten wir gewisse Probleme nicht berücksichtigen können, werden wir mit den entsprechenden Teilnehmer:innen frühzeitig Kontakt suchen und Alternativen erörtern.
+> Hinweis: Es wird ein Menü für alle geben. Sollten wir gewisse Probleme nicht berücksichtigen können, werden wir mit den entsprechenden Teilnehmer:innen frühzeitig Kontakt suchen und Alternativen erörtern.
 
 ### One-Shots
 
@@ -43,7 +43,7 @@ Ihr findet das Bogentrakt Hostel hier:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d678.5411634009714!2d9.534053037393207!3d46.84904634796565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784c7c7e13f4cef%3A0xea89ab6dcb983273!2sBogentrakt!5e0!3m2!1sde!2sch!4v1728415404319!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Vom Bahnhof sind es ca. 10-15 Laufminuten.
+Vom Bahnhof sind es ca. 10–15 Laufminuten.
 
 ## Preise
 
@@ -64,8 +64,8 @@ Vom Bahnhof sind es ca. 10-15 Laufminuten.
 **F: Wie gross sind die Zimmer**
 : A: Es sind 4er-Zimmer oder auf Wunsch und Aufpreis Doppelzimmer.
 
-**F: Ab wann kann man das Check-In machen?**
-: A: Für diejenigen, die im Hostel übernachten, ab 14:00 könnt ihr einchecken. Natürlich könnt ihr auch euer Gepäck bereits früher im Hostel zwischenlagern. Das Check-In geht relativ schnell und kann in einer Pause erledigt werden.
+**F: Ab wann kann man das Check-in machen?**
+: A: Für diejenigen, die im Hostel übernachten, ab 14.00 könnt ihr einchecken. Natürlich könnt ihr auch euer Gepäck bereits früher im Hostel zwischenlagern. Das Check-in geht relativ schnell und kann in einer Pause erledigt werden.
 
 **F: Muss ich meinen eigenen Charakter machen?**
 : A: Du darfst das sehr gerne machen! Das ist natürlich der grösste Spass an RPGs.
