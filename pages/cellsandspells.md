@@ -6,7 +6,7 @@ permalink: /events/cellsandspells/
 hero_darken: true
 ---
 
-# Cells & Spells: 20-21. Juni 2025, Chur
+# Cells & Spells: 21-22. Juni 2025, Chur
 
 Du wolltest schon immer Dungeons & Dragons in einem richtigen Dungeon spielen? Hier ist deine Chance.
 
@@ -75,6 +75,14 @@ Vom Bahnhof sind es ca. 10–15 Laufminuten.
 
 ## Anmeldung
 
-Anmelden könnt ihr euch unter folgendem Link:
+Anmelden könnt ihr euch unter folgendem Link. Anmeldeschluss ist der 6. Juni 2025
 
 [ANMELDUNG HIER](https://forms.gle/1zBZVqj7RAnAe31F8)
+
+### Bezahlung
+
+Die Anmeldegebühr (incl. Essen und Übernachtung) ist spätestens 3 Arbeitstage vor dem Anlass zu verrichten. Bei Ausbleiben der Zahlung wird die Anmeldung storniert.
+
+### Stornierung & Rückerstattung
+
+Eine Anmeldung kann bis 3 Arbeitstage vor dem Anlass storniert werden (mittels Mail an info@rpg-grischun.ch). Eine Anmeldung bis 3 Arbeitstage vor dem Anlass wird vollständig zurückerstattet, im Anschluss kann keine Rückerstattung mehr verrichtet werden.
