@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll", "4.3.3"
+gem "jekyll", "4.4.0"
 gem "bulma-clean-theme", "1.0.0"
 gem "sinatra", ">= 3", "< 4"
 gem "rackup"
@@ -42,4 +42,4 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"

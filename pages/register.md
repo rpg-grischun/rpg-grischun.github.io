@@ -4,6 +4,8 @@ title: Anmeldung
 permalink: /anmeldung/
 hero_image: /assets/images/wizard_lab_2.png
 lang: de-CH
+include_scripts:
+    - "https://embed.eventfrog.ch/api/scripts/embed/event.js"
 ---
 
 ## Was?
@@ -18,11 +20,9 @@ Wir beginnen um 19.00 und spielen bis ca. 21.45.
 
 ## Wie?
 
-Anmelden kannst du dich über folgenden Link:
+Unsere Events findest du über Eventfrog:
 
-[01.04.2025](https://docs.google.com/forms/d/e/1FAIpQLSfYe5zcfY41Uro2i48wpnXepBAWgsJ2iSgO-CUgSFtH_L3N_w/viewform?usp=dialog)
-
-[06.05.2025](https://forms.gle/fRiVcWtSLyJTv4kF9)
+<iframe width="100%" height="400" src="https://embed.eventfrog.ch/de/p/gruppen/d-d-stadtbibliothek-chur-7322168594690796962.html?color=60BF00&infobox=0&description=0&location=0&organisator=0&sponsors=0"></iframe>
 
 ## Ich habe weitere Fragen!
 
